@@ -545,7 +545,6 @@ public class MyPokerGame {
 
     public void play() {
         //The main algorithm for single player poker game
-
         showPayoutTable();
         oneDeck = new Decks(1);
         //Create a hand arrayList
